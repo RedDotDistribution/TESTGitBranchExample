@@ -9,6 +9,7 @@ namespace TESTGitBranchExample.Controllers
     public class TESTController : Controller
     {
         // GET: TEST
+        // add the implementation of it
         public ActionResult Index()
         {
             return View();
