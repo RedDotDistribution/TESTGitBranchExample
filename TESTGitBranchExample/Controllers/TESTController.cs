@@ -9,7 +9,8 @@ namespace TESTGitBranchExample.Controllers
     public class TESTController : Controller
     {
         // GET: TEST
-        // add the implementation of it
+        // add the implementation of it 
+        // this comment is added in Master branch by PRAMOD
         public ActionResult Index()
         {
             return View();
